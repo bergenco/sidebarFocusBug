@@ -11,6 +11,8 @@ while the collection view cell is in focus, the focus loop remains stuck.
 
 This sample app behaves correctly on iPadOS.
 
+FB13648756
+
 
 
 https://github.com/bergenco/sidebarFocusBug/assets/51309/3e54adda-9eba-4fbd-9924-781e4cbc826e
